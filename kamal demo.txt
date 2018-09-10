@@ -3,3 +3,6 @@ this is my first class in git
 
 
 git class on  add
+
+
+git class on commit
