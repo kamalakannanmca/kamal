@@ -6,3 +6,5 @@ git class on  add
 
 
 git class on commit
+
+git class on push
